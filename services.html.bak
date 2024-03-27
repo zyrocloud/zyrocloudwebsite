@@ -6,7 +6,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<title>ZyroCloud Technologies - Contacts</title>
+	<title>ZyroCloud Technologies - Services</title>
 
 
 	<link rel="stylesheet" type="text/css" href="css/theme-styles.css">
@@ -26,9 +26,9 @@
 
 	<!--<link rel="stylesheet" type="text/css" href="css/rtl.css">-->
 
+
 </head>
 <body class="crumina-grid">
-
 
 <!-- Preloader -->
 
@@ -40,6 +40,7 @@
 <!-- Header -->
 
 <header class="header header--menu-rounded header--blue-lighteen" id="site-header">
+
 	<div class="header-lines-decoration">
 		<span class="bg-secondary-color"></span>
 		<span class="bg-blue"></span>
@@ -63,7 +64,9 @@
 			</div>
 
 			<nav id="primary-menu" class="primary-menu">
+
 				<!-- menu-icon-wrapper -->
+
 				<a href='javascript:void(0)' id="menu-icon-trigger" class="menu-icon-trigger showhide">
 					<span class="mob-menu--title">Menu</span>
 					<span id="menu-icon-wrapper" class="menu-icon-wrapper">
@@ -95,7 +98,9 @@
 				</ul>		
 			</nav>
 		</div>
+
 	</div>
+
 </header>
 
 <!-- ... end Header -->
@@ -104,50 +109,120 @@
 
 <div class="content-wrapper">
 
-	<!-- Contacts -->
 
-	<section>
-		<div class="container-fluid no-padding">
+	<!-- Stunning Header -->
 
-			<div class="col-lg-6 col-lg-12 col-sm-12 col-xs-12 no-padding">
-				<!-- Google map -->
-				<div id="map" style="height: 600px"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d235014.257921408!2d72.43965561927207!3d23.020181762765592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e848aba5bd449%3A0x4fcedd11614f6516!2sAhmedabad%2C%20Gujarat!5e0!3m2!1sen!2sin!4v1604154642790!5m2!1sen!2sin" width="800" height="600" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></div>
-				
-
-				<!-- End Google map -->
+	<div class="crumina-stunning-header stunning-bg-5 stunning-header--content-center stunning-header--bg-photo stunning-header--min640 custom-color c-white fill-white">
+		<div class="container">
+			<div class="stunning-header-content">				
+				<h2 class="h1 stunning-header-title">We Work on All Major Programming Languages.</h2>
 			</div>
+		</div>
+		<div class="overlay-standard overlay--green"></div>
+	</div>
 
-			<div class="col-lg-3 col-lg-offset-1 col-md-12 col-sm-12 pt100 pb100">
-				
+	<!-- ... end Stunning Header -->
 
-				<div class="crumina-module crumina-heading">
-					<h5 class="heading-title">Get in Touch with Us</h5>				
-				</div>
-				<div class="widget w-contacts w-contacts--style2 ">
-					<div class="contact-item display-flex">
-						<svg class="utouch-icon utouch-icon-placeholder-3"><use xlink:href="#utouch-icon-placeholder-3"></use></svg>
-						<span class="info">Current Address:<br/> 607,SAFFRON BUSINESS PARK,JASHODA NAGAR CROSS ROAD, NAROL-NARODA ROAD,AHEMEDABAD,GUJARAT,INDIA.380050</span>
-					</div>		
-					<div class="contact-item display-flex">
-						<svg class="utouch-icon utouch-icon-message"><use xlink:href="#utouch-icon-message"></use></svg>
-						<a href="#" class="info">info@ZyroCloud.com</a>
+
+	<!-- Course Details -->
+
+	<section class="negative-margin-top80">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					<div class="course-details">
+						<ul class="course-details-control" role="tablist">
+							<li role="presentation" class="tab-control active">
+								<a href="#hosting" role="tab" data-toggle="tab" class="control-item">Hosting</a>
+							</li>
+							<li role="presentation" class="tab-control">
+								<a href="#android" role="tab" data-toggle="tab" class="control-item">Android</a>
+							</li>
+
+							<li role="presentation" class="tab-control">
+								<a href="#net" role="tab" data-toggle="tab" class="control-item">.Net</a>
+							</li>
+
+							<li role="presentation" class="tab-control">
+								<a href="#java" role="tab" data-toggle="tab" class="control-item">Java</a>
+							</li>
+						</ul>
+
+						<div class="tab-content">
+							
+							<div role="tabpanel" class="tab-pane fade in active" id="hosting">
+								<div class="row">
+									<div class="col-lg-8 col-md-12 col-sm-12 col-xs-12">
+										<h3>Hosting</h3>
+										<p class="weight-bold">ZyroCloud Technologies delivers best hosting solutions as per the client's requirements.</p>
+										<p>Crafted as per client need <br>
+									Best in Class Support. <br>
+										Wide Range of Options Like Dedicated/VPS Server<br>
+										Managed/Unmanaged Solutions
+										
+										<br/>
+											<br/>
+										<a href="pricing.html" class="btn btn--green">Check Out Plans</a>
+										
+										
+								
+								
+										</p>									
+									</div>								
+								</div>
+							</div>
+							<div role="tabpanel" class="tab-pane fade in" id="android">
+								<div class="row">
+									<div class="col-lg-8 col-md-12 col-sm-12 col-xs-12">
+										<h3>Android</h3>
+										<p class="weight-bold">ZyroCloud Technologies delivers qualitative Android apps development solutions as per the clients' requirements.</p>
+										<p>Our Android app developers are develop robust and scalable Android apps. They are expertised and talented. <br>
+										Always use of the latest Android tools and Android SDK, to provide you a unique Adnroid Application. <br>
+										We provide Android Business development application.<br>
+										We have developed many application which are efficiently engineered, highly performant and secured smartphone apps for all Andorid version with flowless app design.
+										</p>		
+
+                               <a href="#" class="btn btn--green full-width btn--with-shadow js-message-popup cd-nav-trigger">
+									Contact Us for More info
+								</a>										
+									</div>								
+								</div>
+							</div>
+							<div role="tabpanel" class="tab-pane fade" id="net">
+								<h3>Microsoft</h3>
+								<p class="weight-bold">ZyroCloud Technologies works with all Microsoft technologies, platforms and frameworks to give best IT Services & Solutions to help our clients expand their bussiness.</p>
+								<p>We provide designing and integrating customized solutions on the .Net Techonology.<br>
+								We provide Enterprise Applications Development, Enterprise Mobility, Web Management, Data Analytics and Bussiness Intelligence and <br>
+								Customer Relationship Management (CRM).
+								</p>		
+
+<a href="#" class="btn btn--green full-width btn--with-shadow js-message-popup cd-nav-trigger">
+									Contact Us for More info
+								</a>									
+			
+							</div>
+							<div role="tabpanel" class="tab-pane fade" id="java">
+								<h3>Java</h3>
+								<p class="weight-bold">
+									ZyroCloud Technologies delivers robust and scalable applications on Java technologies.</p>
+								<p>We are expertise in leading Java application frameworks.<br>
+									We are expert in Java project leads, developers, architects and analysts.<br>
+									We also provide Agile methodology with quality, scalable.
+								</p>
+								
+								<a href="#" class="btn btn--green full-width btn--with-shadow js-message-popup cd-nav-trigger">
+									Contact Us for More info
+								</a>	
+							</div>							
+						</div>
 					</div>
-					
-					
-
-					<a href="#" class="btn btn--grey btn--with-shadow js-message-popup cd-nav-trigger">
-						Send a Message
-					</a>
 				</div>
-
 			</div>
-
 		</div>
 	</section>
-
-	<!-- ... end Contacts -->
-
+	<!-- ... end Course Details -->
 </div>
+
 
 <!-- Footer -->
 
@@ -165,41 +240,41 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-3 col-md-5 col-sm-12 col-xs-12">
-				<div class="widget w-info">
-					<div class="site-logo">
-						<a href="index-2.html" class="full-block"></a>
-						<div class="logo-text">
-							<div class="logo-title">ZyroCloud Technologies</div>
-							<div class="logo-sub-title">Your Idea Our Invention</div>
-						</div>
+					<div class="widget w-info">
+						<div class="site-logo">
+							<a href="index.html" class="full-block"></a>
+							<div class="logo-text">
+								<div class="logo-title">ZyroCloud Technologies</div>
+								<div class="logo-sub-title">Your Idea Our Invention</div>
+							</div>
+						</div>						
+						<a href="company.html" class="learn-more">Learn more about ZyroCloud Technologies</a>
 					</div>
-					<a href="company.html" class="learn-more">Learn more about ZyroCloud Technologies</a>
+
 				</div>
 
-			</div>
+				<div class="col-lg-3 col-lg-offset-1 col-md-3 col-sm-12 col-sm-offset-0 col-xs-12">
+					<div class="widget w-list">
 
-			<div class="col-lg-3 col-lg-offset-1 col-md-3 col-sm-12 col-sm-offset-0 col-xs-12">
-				<div class="widget w-list">
-
-					<h5 class="widget-title">Userful Links</h5>
-					<ul class="list list--primary">
-						<li>
-							<a href="index-2.html">Home</a>
-							<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
-						</li>
-						<li>
-							<a href="company.html">AboutUs</a>
-							<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
-						</li>
-						<li>
-							<a href="services.html">Services</a>
-							<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
-						</li>						
-						<li>
-							<a href="contact.html">Contacts</a>
-							<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
-						</li>
-						<li>
+						<h5 class="widget-title">Userful Links</h5>
+						<ul class="list list--primary">
+							<li>
+								<a href="index.html">Home</a>
+								<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
+							</li>
+							<li>
+								<a href="company.html">AboutUs</a>
+								<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
+							</li>
+							<li>
+								<a href="services.html">Services</a>
+								<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
+							</li>						
+							<li>
+								<a href="contact.html">Contacts</a>
+								<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
+							</li>
+							<li>
 								<a href="tearms-conditions.html">Terms and Conditions</a>
 								<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
 							</li>
@@ -208,9 +283,9 @@
 								<a href="privacy-policy.html">Privacy Policy</a>
 								<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
 							</li>
-					</ul>
+						</ul>
+					</div>
 				</div>
-			</div>
 
 			<div class="col-lg-3 col-lg-offset-1 col-md-4 col-sm-12 col-sm-offset-0 col-xs-12">
 				<div class="widget w-contacts">
@@ -263,6 +338,7 @@
 
 <!-- End Footer -->
 
+
 <!-- Send Message Popup -->
 
 <div class="window-popup message-popup" style="display:none;">
@@ -309,9 +385,30 @@
 <!-- Send Message Popup -->
 
 
-
 <!-- Search Popup -->
 
+<div class="search-popup" style="display:none;">
+	<a href="#" class="popup-close js-popup-close cd-nav-trigger">
+		<svg class="utouch-icon utouch-icon-cancel-1"><use xlink:href="#utouch-icon-cancel-1"></use></svg>
+	</a>
+
+	<div class="search-full-screen">
+
+		<div class="search-standard">
+			<form id="search-header-1" name="form-search-header" method="post">
+				<input class="search-input" name="utouch_posts[query]" placeholder="What are you looking for?" autocomplete="off" type="search" autofocus>
+				<button type="submit" class="form-icon">
+					<svg class="utouch-icon utouch-icon-search"><use xlink:href="#utouch-icon-search"></use></svg>
+				</button>
+						<span class="close js-popup-clear-input form-icon">
+							<svg class="utouch-icon utouch-icon-cancel-1"><use xlink:href="#utouch-icon-cancel-1"></use></svg>
+						</span>
+			</form>
+		</div>
+
+	</div>
+
+</div>
 
 <!-- ... end Search Popup -->
 
@@ -557,9 +654,16 @@
 	</symbol>
 
 </svg>
-<div id="message" style="display:none;">Thank you for your Feedback we will revert you As soon as possible</div>
+
+<!-- ... end Used SVG-icons -->
+
+
+<!-- jQuery first, then Other JS. -->
 
 <script src="js/jquery-3.2.0.min.js"></script>
+
+
+<!-- jQuery-scripts for Template -->
 
 <script src="js/crum-mega-menu.js"></script>
 <script src="js/swiper.jquery.min.js"></script>
@@ -568,6 +672,6 @@
 <script src="js/main.js"></script>
 <script src="js/form-actions.js"></script>
 
-	
+
 </body>
 </html>

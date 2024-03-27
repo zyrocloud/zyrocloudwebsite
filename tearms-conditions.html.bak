@@ -57,7 +57,7 @@
 		<div class="header-content-wrapper">
 
 			<div class="site-logo">
-				<a href="index-2.html" class="full-block"></a>
+				<a href="index.html" class="full-block"></a>
 							<img src="img/ZyroCloud Technologieslogo.png" width="200" alt="ZyroCloud Technologies">
 		
 			</div>
@@ -77,17 +77,13 @@
 
 				<ul class="primary-menu-menu">
 						<li class="menu-item-has-children">
-							<a href="index.html">Home</a>
+							<a href="index-2.html">Home</a>
 						</li>
 						<li>
 							<a href="company.html">About Us</a>
 						</li>
 						<li class="">
 							<a href="services.html">Services</a>					
-						</li>
-						
-						<li class="">
-							<a href="pricing.html">Pricing</a>					
 						</li>
 						<li class="">
 							<a href="contact.html">Contact</a>
@@ -109,38 +105,121 @@
 	<section>
 		<div class="container-fluid no-padding">
 
-			<div class="col-lg-6 col-lg-12 col-sm-12 col-xs-12 no-padding">
-				<!-- Google map -->
-				<div id="map" style="height: 600px"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d235014.257921408!2d72.43965561927207!3d23.020181762765592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e848aba5bd449%3A0x4fcedd11614f6516!2sAhmedabad%2C%20Gujarat!5e0!3m2!1sen!2sin!4v1604154642790!5m2!1sen!2sin" width="800" height="600" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></div>
-				
+			 <div class="container">
+			  <h1 class="h4">
+                                        Terms and Conditions
+                                    </h1>
+									
+                            <div class="row">
+                                <div class="col-sm-8 offset-sm-1">
+                                    
+<h6>For Software Development and Consulting services</h6>
 
-				<!-- End Google map -->
-			</div>
 
-			<div class="col-lg-3 col-lg-offset-1 col-md-12 col-sm-12 pt100 pb100">
-				
 
-				<div class="crumina-module crumina-heading">
-					<h5 class="heading-title">Get in Touch with Us</h5>				
-				</div>
-				<div class="widget w-contacts w-contacts--style2 ">
-					<div class="contact-item display-flex">
-						<svg class="utouch-icon utouch-icon-placeholder-3"><use xlink:href="#utouch-icon-placeholder-3"></use></svg>
-						<span class="info">Current Address:<br/> 607,SAFFRON BUSINESS PARK,JASHODA NAGAR CROSS ROAD, NAROL-NARODA ROAD,AHEMEDABAD,GUJARAT,INDIA.380050</span>
-					</div>		
-					<div class="contact-item display-flex">
-						<svg class="utouch-icon utouch-icon-message"><use xlink:href="#utouch-icon-message"></use></svg>
-						<a href="#" class="info">info@ZyroCloud.com</a>
-					</div>
-					
-					
+<p>This Service Agreement (“Agreement”) shall apply and govern the Statement of Work(s), project, letter of intent or any other document (“SOW”) executed between ZyroCloud Technologies or any of its affiliates [specifically identified in the SOW] (“Consultant/Consultant”) and Customer, for the purpose of providing professional services (“Services”) or deliverables (“Deliverable”) for software development and consulting.</p>
 
-					<a href="#" class="btn btn--grey btn--with-shadow js-message-popup cd-nav-trigger">
-						Send a Message
-					</a>
-				</div>
 
-			</div>
+
+<h6>Payments:</h6>
+
+
+
+<p>Payment will be made by Customer within 15 days upon receipt of an invoice. In the event there is a delay in payment for more than 5 days from the due date, the Customer shall be liable to pay an interest of 1.5% per month or maximum permitted by applicable law, whichever is less, on the delayed payments from the due date of payment. Consultant shall be relieved of its obligations under this Agreement in the event of non-payment of the Fees or expenses due and shall retain the rights in the Services for which the amount is outstanding. Consultant will provide the Hardware and Software stated in Annexure – 01, as part of its standard package if required while providing the offshore Services from Consultant’s location(s) in India. Contractor’s relationship with Company is that of an independent contractor, and nothing in this Agreement will be construed to create a joint partnership, joint venture, agency, or employer-employee relationship.</p>
+
+
+<h6>Refund and cancellation:</h6>
+
+
+
+<p>Refund will process with in 7 days in case of Cancellation or Unserviceable product. No Refund will be made for Delivered/served product.Contact info@ZyroCloud Technologies.com for refund.</p>
+
+
+<h6>Approval Process:</h6>
+
+
+
+<p>Customer will have seven (7) days following receipt of the Services or Deliverable (“Acceptance Period”), to complete acceptance tests as per acceptance criteria agreed in the SOW (“Acceptance Criteria”). If no notice of non-conformance to Acceptance Criteria is reported during Acceptance Period, Deliverables or Services are deemed accepted by the Customer.</p>
+
+
+
+<h6>Confidentiality:</h6>
+
+
+
+<p>Confidential information shall mean any information disclosed by one party to the other party, in any form including without limitation documents, business plans, source code, software, technical/ financial/ marketing/ customer/ business information, specifications, analysis, designs, drawings, data, computer programs, any information relating to personnel or Affiliates of a party and include information disclosed by third parties at the direction of a Disclosing Party and marked as confidential within 15 days of such disclosure. Confidential Information shall however, exclude any information which (i) is/ was publicly known or comes into public domain; (ii) is received by the Receiving Party from a third party, without breach of this Agreement; (iii) was already in the possession of Receiving Party, without confidentiality restrictions, at the time of disclosure by the Disclosing Party; (iv) is permitted for disclosure by the Disclosing Party in writing; (v) independently developed by the Receiving Party without use of Confidential Information; (vi) is required to be disclosed by the Receiving Party pursuant to any order or requirement from court, administrative or governmental agency, provided that the Receiving Party shall give the Disclosing Party prompt written notice of such order or requirement and an opportunity to contest or seek an appropriate protective order. The Receiving Party agrees not to use any Confidential Information for any purpose except for conducting business with the Disclosing Party, or otherwise agreed in writing.</p>
+
+
+
+<h6>Intellectual Property Rights:</h6>
+
+
+
+<p>Customer shall own all right, title and interest in and to the Deliverables. The rights, title and interest in and to the Deliverables shall be granted to the Customer only upon receipt of full payment by the Consultant. To the extent that the Deliverables incorporates Consultant pre-existing intellectual property (“Consultant Pre-existing IP”), and such Consultant Pre-Existing IP are necessarily required for the proper functioning of the Deliverables Consultant grants to Customer a perpetual, non-exclusive, worldwide, transferable, royalty-free license to use such Consultant Pre-Existing IP solely along with the Deliverables.</p>
+
+
+
+<h6>Warranties:</h6>
+
+
+
+<p>Except as expressly stated in this Agreement, the parties disclaim all warranties of any kind, implied, statutory, or in any communication between them, including without limitation, the implied warranties of merchantability, non-infringement, title, and fitness for a particular purpose.</p>
+
+
+
+<h6>Limitation of Liability:</h6>
+
+
+
+<p>The total liability of the parties under this Agreement (whether in contract, tort (including negligence)) shall not exceed the fees paid to Consultant hereunder. The parties disclaim any indirect, special, consequential or incidental damages or loss of revenue or business profits, however caused, even if advised of the possibility of such damages. The foregoing limitations of liability will apply notwithstanding the failure of essential purpose of any limited remedy herein.</p>
+
+
+
+<h6>Termination:</h6>
+
+
+
+<p>Either party may terminate the Agreement upon sixty (60) days’ notice to the other party. Either party may terminate this Agreement immediately if the other party breaches the terms of this Agreement and the breach remain uncured for 30 days from the date of receipt of notice. In case of termination, the Consultant shall be paid for the Services provided on a pro-rata basis.</p>
+
+
+
+<h6>Non-Hire and Non-Solicitation:</h6>
+
+
+
+<p>During the term of this Agreement and for one (1) year thereafter, neither party will directly or indirectly recruit, solicit or induce any personnel, Consultant or advisor of the other party to terminate his or her relationship with such other party without the prior written permission of the other party.</p>
+
+
+
+<h6>Force Majeure:</h6>
+
+
+
+<p>Neither party shall be liable for any failure or delay in fulfilling the terms of this Agreement due to fire, strike, war, civil unrest, terrorist action, government regulations, act of Nature or other causes which are unavoidable and beyond the reasonable control of the party claiming force majeure. This provision shall not be construed as relieving either party from its obligation to pay any sum due to the other party.</p>
+
+
+
+<h6>Subcontracting:</h6>
+
+
+
+<p>Consultant may subcontract the services to any of its affiliates.</p>
+
+
+
+<h6>Governing Law and Dispute Resolution:</h6>
+
+
+
+<p>The terms of this Agreement shall be governed, interpreted and construed in accordance with the laws of State of Delaware, United States if the Customer is located in United States of America; laws of England &amp; Wales if the Customer is located in Europe. All disputes, differences, claims and demands arising under or pursuant to this Agreement shall be referred to arbitration and shall be adjudicated in accordance with the rules of International Chamber of Commerce (I.C.C) in English language in the State of California if the Customer is located in United States of America; in London, England if the Customer is located in Europe; in Pune, India if the Customer is in India; in Singapore if the Customer is located in Asia (except India) or Australia.</p>
+
+
+
+<h6>Entire Agreement:</h6>
+
+
+
+<p>This Agreement shall constitute the complete agreement between the parties respecting the subject matter. This Agreement may not be extended, amended, terminated, or superseded except by agreement in writing between the parties. This Agreement supersedes all previous agreements between the Consultant and the Customer, whether oral or written, regarding subject matter hereof, standard terms and conditions of a purchase order or an invoice or any similar document whether hosted on party’s website or otherwise, shall be ineffective. There are no intended third party beneficiaries to this Agreement. Each Agreement may be executed in one or more counterparts (including scanned copies), all of which when signed and taken together constitute a single agreement between the parties.</p>
 
 		</div>
 	</section>
@@ -164,42 +243,42 @@
 
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-3 col-md-5 col-sm-12 col-xs-12">
-				<div class="widget w-info">
-					<div class="site-logo">
-						<a href="index-2.html" class="full-block"></a>
-						<div class="logo-text">
-							<div class="logo-title">ZyroCloud Technologies</div>
-							<div class="logo-sub-title">Your Idea Our Invention</div>
-						</div>
+		<div class="col-lg-3 col-md-5 col-sm-12 col-xs-12">
+					<div class="widget w-info">
+						<div class="site-logo">
+							<a href="index.html" class="full-block"></a>
+							<div class="logo-text">
+								<div class="logo-title">ZyroCloud Technologies</div>
+								<div class="logo-sub-title">Your Idea Our Invention</div>
+							</div>
+						</div>						
+						<a href="company.html" class="learn-more">Learn more about ZyroCloud Technologies</a>
 					</div>
-					<a href="company.html" class="learn-more">Learn more about ZyroCloud Technologies</a>
+
 				</div>
 
-			</div>
+				<div class="col-lg-3 col-lg-offset-1 col-md-3 col-sm-12 col-sm-offset-0 col-xs-12">
+					<div class="widget w-list">
 
-			<div class="col-lg-3 col-lg-offset-1 col-md-3 col-sm-12 col-sm-offset-0 col-xs-12">
-				<div class="widget w-list">
-
-					<h5 class="widget-title">Userful Links</h5>
-					<ul class="list list--primary">
-						<li>
-							<a href="index-2.html">Home</a>
-							<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
-						</li>
-						<li>
-							<a href="company.html">AboutUs</a>
-							<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
-						</li>
-						<li>
-							<a href="services.html">Services</a>
-							<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
-						</li>						
-						<li>
-							<a href="contact.html">Contacts</a>
-							<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
-						</li>
-						<li>
+						<h5 class="widget-title">Userful Links</h5>
+						<ul class="list list--primary">
+							<li>
+								<a href="index.html">Home</a>
+								<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
+							</li>
+							<li>
+								<a href="company.html">AboutUs</a>
+								<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
+							</li>
+							<li>
+								<a href="services.html">Services</a>
+								<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
+							</li>						
+							<li>
+								<a href="contact.html">Contacts</a>
+								<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
+							</li>
+							<li>
 								<a href="tearms-conditions.html">Terms and Conditions</a>
 								<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
 							</li>
@@ -208,9 +287,9 @@
 								<a href="privacy-policy.html">Privacy Policy</a>
 								<svg class="utouch-icon utouch-icon-arrow-right"><use xlink:href="#utouch-icon-arrow-right"></use></svg>
 							</li>
-					</ul>
+						</ul>
+					</div>
 				</div>
-			</div>
 
 			<div class="col-lg-3 col-lg-offset-1 col-md-4 col-sm-12 col-sm-offset-0 col-xs-12">
 				<div class="widget w-contacts">
@@ -265,46 +344,6 @@
 
 <!-- Send Message Popup -->
 
-<div class="window-popup message-popup" style="display:none;">
-	<a href="#" class="popup-close js-popup-close cd-nav-trigger">
-		<svg class="utouch-icon utouch-icon-cancel-1"><use xlink:href="#utouch-icon-cancel-1"></use></svg>
-	</a>
-
-	<div class="send-message-popup">
-		<h5>Send a Message</h5>		
-		<form class="validate_form" id="validate_form" method="post" action="#">
-			<div class="with-icon">
-				<input name="entry.1487687412" placeholder="Your Name" type="text" required="required">
-				<svg class="utouch-icon utouch-icon-user"><use xlink:href="#utouch-icon-user"></use></svg>
-			</div>
-
-			<div class="with-icon">
-				<input name="entry.1725802560" placeholder="Email Address" type="text" required="required" id="email">
-				<svg class="utouch-icon utouch-icon-message-closed-envelope-1"><use xlink:href="#utouch-icon-message-closed-envelope-1"></use></svg>
-			</div>
-
-			<div class="with-icon">
-				<input class="with-icon" name="entry.231678601" placeholder="Phone Number" type="tel" required="required" id="mob">
-				<svg class="utouch-icon utouch-icon-telephone-keypad-with-ten-keys"><use xlink:href="#utouch-icon-telephone-keypad-with-ten-keys"></use></svg>
-			</div>
-
-			<div class="with-icon">
-				<input class="with-icon" name="entry.89550368" placeholder="Subject" type="text" required="required">
-				<svg class="utouch-icon utouch-icon-icon-1"><use xlink:href="#utouch-icon-icon-1"></use></svg>
-			</div>
-
-			<div class="with-icon">
-				<textarea name="entry.1242947764" required="" placeholder="Your Message" style="height: 180px;"></textarea>
-				<svg class="utouch-icon utouch-icon-edit"><use xlink:href="#utouch-icon-edit"></use></svg>
-			</div>
-
-			<button class="btn btn--green btn--with-shadow full-width" type="submit">
-				Send a Message
-			</button>
-
-		</form>
-	</div>
-</div>
 
 <!-- Send Message Popup -->
 
@@ -312,6 +351,28 @@
 
 <!-- Search Popup -->
 
+<div class="search-popup" style="display:none;">
+	<a href="#" class="popup-close js-popup-close cd-nav-trigger">
+		<svg class="utouch-icon utouch-icon-cancel-1"><use xlink:href="#utouch-icon-cancel-1"></use></svg>
+	</a>
+
+	<div class="search-full-screen">
+
+		<div class="search-standard">
+			<form id="search-header-1" name="form-search-header" method="post">
+				<input class="search-input" name="utouch_posts[query]" placeholder="What are you looking for?" autocomplete="off" type="search" autofocus>
+				<button type="submit" class="form-icon">
+					<svg class="utouch-icon utouch-icon-search"><use xlink:href="#utouch-icon-search"></use></svg>
+				</button>
+						<span class="close js-popup-clear-input form-icon">
+							<svg class="utouch-icon utouch-icon-cancel-1"><use xlink:href="#utouch-icon-cancel-1"></use></svg>
+						</span>
+			</form>
+		</div>
+
+	</div>
+
+</div>
 
 <!-- ... end Search Popup -->
 
@@ -557,9 +618,16 @@
 	</symbol>
 
 </svg>
-<div id="message" style="display:none;">Thank you for your Feedback we will revert you As soon as possible</div>
+<div id="message" style="display:none;">Thank you for your Feedback we will revert you As soon as posible</div>
+<!-- ... end Used SVG-icons -->
+
+
+<!-- jQuery first, then Other JS. -->
 
 <script src="js/jquery-3.2.0.min.js"></script>
+
+
+<!-- jQuery-scripts for Template -->
 
 <script src="js/crum-mega-menu.js"></script>
 <script src="js/swiper.jquery.min.js"></script>
@@ -570,4 +638,6 @@
 
 	
 </body>
+
+<!-- Mirrored from ZyroCloud Technologies.com/tearms-conditions.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 19 Apr 2022 11:14:36 GMT -->
 </html>
